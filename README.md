@@ -31,7 +31,7 @@ I’m a Python and JavaScript developer who has turned years of freelancing and 
 
 I specialize in building projects that do all the heavy lifting websites. I love to code the design that is light yet powerful, distributed yet synchronized, and beautiful yet effective. Now currently, I'm into learning new technologies like Web3 and Flutter which help me to do a lot.
 
-If Need to contact me visit my website https://vsanjay.me    
+If Need to contact me visit my website https://vsanjay.netlify.app/
   
 
 <br/>  
