@@ -58,7 +58,7 @@ If Need to contact me visit my website https://vsanjay.me
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.ibb.co/T8wZ3Xw/profile-pic.png" align="center" style="width: 50%" />
+<img src="https://i.ibb.co/9TMBD2p/profile-pic-3.png" align="center" style="width: 50%" />
 </div>  
 
 
