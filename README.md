@@ -46,7 +46,7 @@ If Need to contact me visit my website https://vsanjay.netlify.app/
 - 📖I’m currently working on Academic.  
   
 
-- 🌐 I’m currently learning Web3, Flutter and Crypto  
+- 🌐 I’m currently learning DevOps and Flutter
   
 
 - ❓ Ask me about anything related to Career and programming related technologies  
