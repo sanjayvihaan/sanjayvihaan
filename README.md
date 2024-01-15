@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I’m a Python and JavaScript developer who has turned years of freelancing and worked in the company. Being a developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+I’m a JavaScript developer who has turned years of freelancing and worked in the company. Being a developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
 
 I specialize in building projects that do all the heavy lifting websites. I love to code the design that is light yet powerful, distributed yet synchronized, and beautiful yet effective. Now currently, I'm into learning new technologies like Web3 and Flutter which help me to do a lot.
 
